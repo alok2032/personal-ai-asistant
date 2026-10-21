@@ -1,0 +1,6 @@
+{
+  "name": "Bidiok AI",
+  "description": "Powerful Open-Source AI Assistant with Voice Commands, QR Scanner & Generator, Multi-Model Intelligence, 3D Studio, and Multi-Modal Crafting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

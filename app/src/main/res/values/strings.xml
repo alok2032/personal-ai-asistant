@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Bidiok AI</string>
+    <string name="tagline">Next-Gen Quantum AI Assistant</string>
+    <string name="nav_chat">Assistant</string>
+    <string name="nav_vision">Vision &amp; QR</string>
+    <string name="nav_studio">3D Studio</string>
+    <string name="nav_craft">Creative Hub</string>
+    <string name="nav_sync">Cloud Sync</string>
+    <string name="voice_listening">Listening to voice command…</string>
+    <string name="voice_speak_prompt">Tap and speak to Bidiok AI</string>
+    <string name="action_send">Send</string>
+    <string name="action_clear">Clear</string>
+    <string name="action_copy">Copy</string>
+    <string name="action_speak">Listen</string>
+    <string name="action_scan_qr">Scan QR</string>
+    <string name="action_generate_qr">Create QR</string>
+</resources>
